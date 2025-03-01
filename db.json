@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "emailId": "john@example.com",
+      "phonenumber": "123-456-7890"
+    },
+    {
+      "id": "2",
+      "name": "John Doe 2",
+      "emailId": "john2@example.com",
+      "phonenumber": "123-456-7890"
+    }
+  ],
+  "studyGroups": [
+    {
+      "id": "e216",
+      "name": "Jordar Study Group",
+      "place": "In Study Hall no. 2",
+      "members": [
+        "1",
+        "2"
+      ],
+      "startTime": "2025-03-02T00:49",
+      "endTime": "2025-03-30T00:49",
+      "subject": "Chemistry"
+    }
+  ]
+}
